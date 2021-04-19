@@ -109,4 +109,5 @@ Common Mistakes
 -	Unsure of true speed 
 -	Certain symbols are hidden and not easy to see
 
+<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/IMG_1059.HEIC" width="600">
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/Dash.gif" width="600">
