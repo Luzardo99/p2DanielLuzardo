@@ -15,10 +15,9 @@ Cons:
 -	No MPH 
 -	Gas is too far out from center line
 
+# Merc Dashboard 
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/merc.jpg" width="600">
 
-
-Merc Dashboard 
 
 Pros:
 -	Basic information is on top
@@ -30,10 +29,10 @@ Cons:
 -	Current gear symbol is small
 -	No space for car symbols or turn signals
 
+# Toyota Dashboard 
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/toyota.jpg" width="600">
 
 
-Toyota Dashboard 
 
 Pros:
 -	Gas and engine temp are included in speedometer and tachometer
@@ -47,11 +46,10 @@ Cons:
 
 
 
-
+# Ford Dashboard 
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/ford.jpg" width="600">
 
 
-Ford Dashboard 
 
 Pros:
 -	Different displays are separated apart
@@ -64,9 +62,10 @@ Cons:
 -	KM/H is unreadable
 -	No milage
 
+# Ferrari Dashboard 
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/ferrari.jpg" width="600">
 
-Ferrari Dashboard 
+
 
 Pros:
 -	Matte black finish as background color so easy to read
