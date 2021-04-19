@@ -1,9 +1,9 @@
 # p2DanielLuzardo
 Hello I am Daniel Luzardo and this my project 2 for Human Computer Interaction!
 
+# BMW Dashboard 
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/bmw.jpg" width="600">
 
-BMW Dashboard 
 
 Pros:
 -	Big speed gauges
