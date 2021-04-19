@@ -1,1 +1,104 @@
 # p2DanielLuzardo
+
+BMW Dashboard 
+
+Pros:
+-	Big speed gauges
+-	Easy to see current gear
+
+
+Cons:
+-	Numbers are on lowest part of dashboard
+-	No MPH 
+-	Gas is too far out from center line
+
+
+Merc Dashboard 
+
+Pros:
+-	Basic information is on top
+-	Gas and engine temp are included in speedometer and tachometer
+-	 Speed is easily visible
+
+
+Cons:
+-	Current gear symbol is small
+-	No space for car symbols or turn signals
+
+
+
+Toyota Dashboard 
+
+Pros:
+-	Gas and engine temp are included in speedometer and tachometer
+-	Milage, gear and outside temperature are big and easily visible
+-	Car symbols are in speedometer tachometer but only visible when they light up
+-	Colors work well
+
+
+Cons:
+-	Speed not shown on screen
+
+
+
+
+
+
+Ford Dashboard 
+
+Pros:
+-	Different displays are separated apart
+-	Displays are big 
+
+Cons:
+-	Hard to read all the gauges
+-	Lines in speedometer and tachometer don’t seem to be in semi-circle
+-	Empty to Full on fuel gauge is too close
+-	KM/H is unreadable
+-	No milage
+
+Ferrari Dashboard 
+
+Pros:
+-	Matte black finish as background color so easy to read
+-	Big numbers that are easy to read
+
+
+Cons:
+-	Car symbols are on bottom left and hard to see
+-	Speedometer seems small and should be a whole circle
+-	KM/H is unreadable
+-	Current gear can be a bit hard to read
+-	Speedometer looks too packed
+
+
+Common Features 
+-	Speedometer on the right & Tachometer on the left
+-	Fuel Indicator
+-	Engine temperature
+-	Outside Temperature
+-	Turn Signals
+-	Warning Symbols
+-	Car milage
+-	Clock
+-	Current gear
+
+
+
+
+
+
+
+Rare features
+-	Lane assist/Nearby car detection
+-	HUD
+-	Navigation
+-	Tire pressure
+
+
+
+User interactable functions 
+-	Display
+-	Turn Signals
+-	Cruise Control
+![image](https://user-images.githubusercontent.com/25484942/115179698-8367f200-a099-11eb-9cf3-2f6cc77a2a14.png)
