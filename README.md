@@ -15,6 +15,8 @@ Cons:
 -	No MPH 
 -	Gas is too far out from center line
 
+<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/merc.jpg" width="600">
+
 
 Merc Dashboard 
 
@@ -28,6 +30,7 @@ Cons:
 -	Current gear symbol is small
 -	No space for car symbols or turn signals
 
+<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/toyota.jpg" width="600">
 
 
 Toyota Dashboard 
@@ -45,6 +48,7 @@ Cons:
 
 
 
+<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/ford.jpg" width="600">
 
 
 Ford Dashboard 
@@ -59,6 +63,8 @@ Cons:
 -	Empty to Full on fuel gauge is too close
 -	KM/H is unreadable
 -	No milage
+
+<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/ferrari.jpg" width="600">
 
 Ferrari Dashboard 
 
