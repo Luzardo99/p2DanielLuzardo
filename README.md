@@ -111,4 +111,4 @@ User interactable functions
 -	Cruise Control
 
 
-<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/dash.gif" width="600">
+<img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/Dash.gif" width="600">
