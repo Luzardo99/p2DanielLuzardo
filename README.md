@@ -104,11 +104,9 @@ Rare features
 -	Tire pressure
 
 
-
-User interactable functions 
--	Display
--	Turn Signals
--	Cruise Control
-
+Common Mistakes
+-	Unsure of where fuel is truly at
+-	Unsure of true speed 
+-	Certain symbols are hidden and not easy to see
 
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/Dash.gif" width="600">
