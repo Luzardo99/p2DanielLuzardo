@@ -108,7 +108,7 @@ Common Mistakes
 -	Unsure of where fuel is truly at
 -	Unsure of true speed 
 -	Certain symbols are hidden and not easy to see
-# Sketch
+# Sketch & Design
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/sketch.png" width="600">
-# Design
+
 <img src="https://github.com/Luzardo99/p2DanielLuzardo/blob/main/Dash.gif" width="600">
